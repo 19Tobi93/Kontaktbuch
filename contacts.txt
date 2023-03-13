@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Alex Left",
+        "phone": "987654321"
+    },
+    {
+        "name": "Willi Rest",
+        "phone": "123456789"
+    },
+    {
+        "name": "Leon Fall",
+        "phone": "8539274"
+    }
+]
